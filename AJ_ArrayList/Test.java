@@ -23,7 +23,7 @@ public class Test {
        // }
         list.remove(5);
         System.out.println(list);
-        System.out.println("for Git");
+        System.out.println("for Git Update");
     }
 }
 
